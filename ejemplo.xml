@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <title>Card 1</title>
+    <description>This is the first card description.</description>
+    <imagen>./img/descarga.jpg</imagen>
+  </item>
+  <item>
+    <title>Card 2</title>
+    <description>This is the second card description.</description>
+    <imagen>./img/img01.jpeg</imagen>
+  </item>
+  <item>
+    <title>Card 3</title>
+    <description>This is the third card description.</description>
+    <imagen>./img/img02.jpeg</imagen>
+  </item>
+    <item>
+    <title>Card 4</title>
+    <description>This is the cuartaa card description.</description>
+    <imagen>./img/img01.jpeg</imagen>
+  </item>
+    <item>
+    <title>Card 5</title>
+    <description>This is the quitna card description.</description>
+    <imagen>./img/default.jpg</imagen>
+  </item>
+</items>
