@@ -25,4 +25,9 @@
     <description>This is the quitna card description.</description>
     <imagen>./img/default.jpg</imagen>
   </item>
+  <item>
+    <title>Card 6</title>
+    <description>aaaaaaaaaaaaaaaaaaaaaaaaaaaa</description>
+    <imagen>./img/img03.jpg</imagen>
+  </item>
 </items>
