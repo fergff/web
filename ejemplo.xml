@@ -2,27 +2,27 @@
 <items>
   <item>
     <title>Card 1</title>
-    <description>This is the first card description.</description>
+    <description>primera descripcion</description>
     <imagen>https://cc-prod.scene7.com/is/image/CCProdAuthor/7%20AdobeStock_335413355?$png$&amp;jpegSize=200&amp;wid=960</imagen>
   </item>
   <item>
     <title>Card 2</title>
-    <description>This is the second card description.</description>
+    <description>segunda descripcion</description>
     <imagen>https://lh3.googleusercontent.com/pw/ABLVV8476VqIFm3oZeex6EXN_xiimBbSxQc0lVKBd0pdSpcRdsxnxKticPO-XcWcc2z3VKmqUJAF11GX5cofokYI6ngXQC77x_OUWK17rvLIJeo2TDeR4EZTO-kUU4R_V0qsaSBsyy96C1KTXeb0KhwUydJ0=w875-h620-s-no-gm</imagen>
   </item>
   <item>
     <title>Card 3</title>
-    <description>This is the third card description.</description>
+    <description>tercera descripcion imagen en local</description>
     <imagen>./img/img02.jpeg</imagen>
   </item>
     <item>
     <title>Card 4</title>
-    <description>This is the cuartaa card description.</description>
+    <description>cuarta descripcion imagen en local</description>
     <imagen>./img/img01.jpeg</imagen>
   </item>
     <item>
     <title>Card 5</title>
-    <description>This is the quitna card description.</description>
+    <description>Quinta descripcion imagen en local</description>
     <imagen>img/descarga.jpg</imagen>
   </item>
   <item>
